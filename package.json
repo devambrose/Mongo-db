@@ -1,0 +1,22 @@
+{
+  "name": "testfile",
+  "version": "1.1.2",
+  "description": "mongo db test project and structure implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node testconnection.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github/Ambuh@git.repo 101"
+  },
+  "keywords": [
+    "db",
+    "mongo"
+  ],
+  "author": "devAmbrose",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.28"
+  }
+}
